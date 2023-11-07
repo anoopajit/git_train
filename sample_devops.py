@@ -1,2 +1,2 @@
 # This program prints Hello, world!
-print('Anoop Ajit, How do you do!')
+print('Anoop Ajit, How do You do?')
