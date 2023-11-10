@@ -1,1 +1,1 @@
-checking
+echo "Git auto build check"
