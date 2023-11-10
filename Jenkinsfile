@@ -11,14 +11,14 @@ pipeline {
         stage('Build') {
             steps {
                 // Add your build commands here
-                sh 'echo "Building"'
+                sh 'echo "Building stage"'
             }
         }
 
         stage('Test') {
             steps {
                 // Add your test commands here
-                sh 'echo "Testing"'
+                sh 'echo "Testing stage"'
             }
         }
     }
