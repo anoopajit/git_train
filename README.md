@@ -1,2 +1,2 @@
 # git_train
-training repo for devops course
+Training repos for devops course
